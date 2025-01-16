@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myApp/static/css/main.cb7c24f4.css",
+    "main.js": "/myApp/static/js/main.b8d23d5a.js",
+    "static/media/hero-banner2.jpeg": "/myApp/static/media/hero-banner2.a2901d3874ac3561bf95.jpeg",
+    "static/media/vita4you.png": "/myApp/static/media/vita4you.b49c66726b6ef46a1d76.png",
+    "static/media/hero-banner1.jpg": "/myApp/static/media/hero-banner1.5a8b88489e5a0b8194ca.jpg",
+    "static/media/hero-banner5.jpg": "/myApp/static/media/hero-banner5.622008656a089d82d8df.jpg",
+    "static/media/hero-banner4.jpeg": "/myApp/static/media/hero-banner4.d2079fc8e729d4916aa0.jpeg",
+    "static/media/mynpp.png": "/myApp/static/media/mynpp.a38f6b604d7d1a380416.png",
+    "static/media/heliosext.woff": "/myApp/static/media/heliosext.34eae4915df009a9db57.woff",
+    "static/media/heliosext-bold.woff": "/myApp/static/media/heliosext-bold.39f16363ab648ef7ca1c.woff",
+    "static/media/heliosext.woff2": "/myApp/static/media/heliosext.96a983bcc1b10b32069b.woff2",
+    "static/media/heliosext-bold.woff2": "/myApp/static/media/heliosext-bold.a3e735bb5a41278580d8.woff2",
+    "index.html": "/myApp/index.html",
+    "main.cb7c24f4.css.map": "/myApp/static/css/main.cb7c24f4.css.map",
+    "main.b8d23d5a.js.map": "/myApp/static/js/main.b8d23d5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7c24f4.css",
+    "static/js/main.b8d23d5a.js"
+  ]
+}
