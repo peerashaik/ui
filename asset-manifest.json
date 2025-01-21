@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ui/static/css/main.0728b89e.css",
-    "main.js": "/ui/static/js/main.c1e6ce7f.js",
+    "main.css": "/ui/static/css/main.db552f22.css",
+    "main.js": "/ui/static/js/main.b187abb8.js",
     "static/media/hero-banner2.jpeg": "/ui/static/media/hero-banner2.e93132d11969f7883ae3.jpeg",
     "static/media/vita4you.png": "/ui/static/media/vita4you.b49c66726b6ef46a1d76.png",
     "static/media/hero-banner1.jpg": "/ui/static/media/hero-banner1.5a8b88489e5a0b8194ca.jpg",
@@ -13,11 +13,11 @@
     "static/media/heliosext.woff2": "/ui/static/media/heliosext.96a983bcc1b10b32069b.woff2",
     "static/media/heliosext-bold.woff2": "/ui/static/media/heliosext-bold.a3e735bb5a41278580d8.woff2",
     "index.html": "/ui/index.html",
-    "main.0728b89e.css.map": "/ui/static/css/main.0728b89e.css.map",
-    "main.c1e6ce7f.js.map": "/ui/static/js/main.c1e6ce7f.js.map"
+    "main.db552f22.css.map": "/ui/static/css/main.db552f22.css.map",
+    "main.b187abb8.js.map": "/ui/static/js/main.b187abb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0728b89e.css",
-    "static/js/main.c1e6ce7f.js"
+    "static/css/main.db552f22.css",
+    "static/js/main.b187abb8.js"
   ]
 }
