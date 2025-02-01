@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ui/static/css/main.0f767b1b.css",
-    "main.js": "/ui/static/js/main.4b6657ce.js",
+    "main.css": "/ui/static/css/main.027a1abb.css",
+    "main.js": "/ui/static/js/main.13282da2.js",
     "static/media/vita4you.png": "/ui/static/media/vita4you.b49c66726b6ef46a1d76.png",
     "static/media/hero-banner1.jpg": "/ui/static/media/hero-banner1.5a8b88489e5a0b8194ca.jpg",
     "static/media/hero-banner5.jpg": "/ui/static/media/hero-banner5.622008656a089d82d8df.jpg",
@@ -9,11 +9,11 @@
     "static/media/hero-banner4.jpeg": "/ui/static/media/hero-banner4.54a8528d5c6752ef0cb8.jpeg",
     "static/media/mynpp.png": "/ui/static/media/mynpp.a38f6b604d7d1a380416.png",
     "index.html": "/ui/index.html",
-    "main.0f767b1b.css.map": "/ui/static/css/main.0f767b1b.css.map",
-    "main.4b6657ce.js.map": "/ui/static/js/main.4b6657ce.js.map"
+    "main.027a1abb.css.map": "/ui/static/css/main.027a1abb.css.map",
+    "main.13282da2.js.map": "/ui/static/js/main.13282da2.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f767b1b.css",
-    "static/js/main.4b6657ce.js"
+    "static/css/main.027a1abb.css",
+    "static/js/main.13282da2.js"
   ]
 }
