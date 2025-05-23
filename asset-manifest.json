@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ui/static/css/main.b3337e6b.css",
+    "main.js": "/ui/static/js/main.40862e7e.js",
+    "static/media/vita4you.png": "/ui/static/media/vita4you.b49c66726b6ef46a1d76.png",
+    "static/media/hero-banner1.jpg": "/ui/static/media/hero-banner1.5a8b88489e5a0b8194ca.jpg",
+    "static/media/hero-banner5.jpg": "/ui/static/media/hero-banner5.622008656a089d82d8df.jpg",
+    "static/media/hero-banner2.jpg": "/ui/static/media/hero-banner2.c437deb2146b41dea4a6.jpg",
+    "static/media/hero-banner4.jpeg": "/ui/static/media/hero-banner4.54a8528d5c6752ef0cb8.jpeg",
+    "static/media/mynpp.png": "/ui/static/media/mynpp.a38f6b604d7d1a380416.png",
+    "index.html": "/ui/index.html",
+    "main.b3337e6b.css.map": "/ui/static/css/main.b3337e6b.css.map",
+    "main.40862e7e.js.map": "/ui/static/js/main.40862e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3337e6b.css",
+    "static/js/main.40862e7e.js"
+  ]
+}
